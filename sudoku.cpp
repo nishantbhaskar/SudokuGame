@@ -32,7 +32,7 @@ public:
   //used to display and track time
   double Seconds_in_game;   
   int Minutes_in_game;
-  int Hours_in_game;SudokuGameWindowsForms
+  int Hours_in_game;//SudokuGameWindowsForms
 
   bool NoMistake;                 //flag to check if all numbers entered by user is right
 
