@@ -1,34 +1,9 @@
- Department of Mathematics and Computing
-                                                         
- Project Title : Design a Sudoku Game using Opengl
-   Subject :  Computer Graphics
-   Submitted to : Dr Badam Singh Kushvah
-  Submitted by :   < Group No. 4 >
-                                                     Anshu Chaurasia            (16JE002212)
-                                                     Puneet Garg                      (16JE002217)
-                                                     Sunny Kumar                   (16JE002246)
-                                                     Achal Prakash Pandey (16JE002252)
-                                                     Utkarsh Maddhesiya     (16JE002255)
-                                                     Nishant Bhaskar             (16JE002260)
-                                                     Akash Nirwan                   (16JE002297)
-
-
-
 Objective:
 The aim of this project is to design a 2-D Sudoku Solver Game using OpenGL
 
 Rules to solve Sudoku:
 Every row, column, and the square box should have all numbers between 1 to 9. 
 No number should be repeated in any row, column, and square.
-
-Contribution:
-Anshu Chaurasia  (16JE002212) – Sudoku Controller
-Puneet Garg (16JE002217) – Sudoku Model
-Sunny Kumar (16JE002246) – Sudoku Model
-Achal Prakash Pandey (16JE002252) – Sudoku View
-Utkarsh Maddhesiya (16JE002255) - Sudoku Model
-Nishant Bhaskar (16JE002260) – Sudoku Contoller
-Akash Nirwan (16JE002297) – Sudoku View
 
 Methodology:
 Create a struct named ‘Cell’ which will represent the cells in the Sudoku grid.
